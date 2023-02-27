@@ -7,7 +7,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #19b1a9;
+    background-color: #17da10;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -38,7 +38,7 @@ nav a {
 /* Featured products styles */
 .featured-products {
     padding: 2rem;
-    background-color: #f67280;
+    background-color: #e27d18;
     color: #fff;
 }
 
